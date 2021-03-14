@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="type_a_message">Type a message:</string>
+    <string name="send">Send</string>
+    <string name="image_user">Image User</string>
+    <string name="result_message">TextView</string>
+</resources>
