@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CRUDSQLite</string>
+    <string name="texto_logotipo">Logotipo</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="texto_btn_livros">Livros</string>
+    <string name="texto_btn_usuarios">Usuários</string>
+    <string name="book_title">Título do livro:</string>
+    <string name="book_author">Autor do livro:</string>
+    <string name="number_of_pages">Número de páginas:</string>
+    <string name="add">Adicionar</string>
+    <string name="update">Atualizar</string>
+    <string name="delete">Apagar</string>
+
+
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="entrar">Entrar</string>
+    <string name="integrantes">Integrantes</string>
+    <string name="lucas_de_almeida_monteiro">Lucas de Almeida Monteiro</string>
+    <string name="lucas_gabriel_moya_arantes_pereira">Lucas Gabriel Moya Arantes Pereira</string>
+    <string name="apagar_todos_os_registros">Apagar todos os registros</string>
+
+    <string name="nome">Nome completo: </string>
+</resources>
