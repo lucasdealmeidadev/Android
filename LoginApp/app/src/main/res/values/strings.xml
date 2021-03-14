@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="name_bem_vindo">Bem vindo!</string>
+    <string name="text_usuario">Usuário:</string>
+    <string name="text_senha">Senha:</string>
+    <string name="botao_entrada">Entrar</string>
+    <string name="placeholder_usuario">Informe seu usuário:</string>
+    <string name="placeholder_senha">Informe sua senha:</string>
+    <string name="text2">text2</string>
+    <string name="text3">text3</string>
+    <string name="text4">Text4</string>
+</resources>
