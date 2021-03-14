@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Média Aritmética</string>
+    <string name="text_n1">Informe seu nome:</string>
+    <string name="text_n2">Informe sua 1° nota:</string>
+    <string name="text_n3">Informe sua 2° nota:</string>
+    <string name="text2">1° Nota:</string>
+    <string name="text3">2° Nota:</string>
+    <string name="text4">Média final:</string>
+    <string name="botao_entrada">Calcular</string>
+</resources>
